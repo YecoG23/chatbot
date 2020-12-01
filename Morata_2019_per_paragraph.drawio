@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T04:47:25.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="3hE8U_3TZB8gH5e3gHdW" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T05:57:33.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="HgeF6w63XXvMWfcbz-Zs" version="13.10.1" type="github">
   <diagram id="wpLm4l1lKHVmqFgt216w" name="Page-1">
-    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,6 +508,27 @@
         </mxCell>
         <mxCell id="05dwUBeXBVv7pAR4uKAy-1" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Assessing strategies to mitigate debris-flow risk in Abancay province,&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;south central Peruvian Andes&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1434.5" y="880" width="660" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wLMWecbSy31O0W6-ory-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;DISCUSION Y CONCLUSIONES&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1604.5" y="1150" width="232.5" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="6wLMWecbSy31O0W6-ory-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.479;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6wLMWecbSy31O0W6-ory-2" target="6wLMWecbSy31O0W6-ory-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690" y="1260" as="sourcePoint" />
+            <mxPoint x="1500" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wLMWecbSy31O0W6-ory-4" value="OBJETIVO:&lt;br&gt;Investigar la efectividad de las medidas de migitacion implantadas e indagar en medidas de gestion relacionado a tiempos de evacuacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1010" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wLMWecbSy31O0W6-ory-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6wLMWecbSy31O0W6-ory-2" target="6wLMWecbSy31O0W6-ory-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1700" y="1150" as="sourcePoint" />
+            <mxPoint x="1470" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wLMWecbSy31O0W6-ory-6" value="INICIO DE HUAYCO 2012:&lt;br&gt;Excepcional continuas lluvias y no intensidad. Periodo Feb hacia 05-Mar (13 días antes del Huayco)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1091" width="174.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
