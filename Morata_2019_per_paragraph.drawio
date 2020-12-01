@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:49:39.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="bkvMyZP7y0QuKLqXzYlm" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T16:07:14.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="OnnIxwUybOeTZQHh1Sb8" version="13.10.4" type="github">
   <diagram id="wpLm4l1lKHVmqFgt216w" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,13 +551,80 @@
             <mxPoint x="1670" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Of3RIeQDwXBQ1127IJgq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1670" y="1380" as="targetPoint" />
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-7" value="El evento de 2012 mostro que abancay no esta preparada para desastres de esa magnitud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-9" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-7" target="Of3RIeQDwXBQ1127IJgq-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="1470" as="sourcePoint" />
+            <mxPoint x="1460" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Of3RIeQDwXBQ1127IJgq-7" value="Desde 1990 se tomaron esfuerzos en en evaluar, planificar el riesgo de desastres en la zona,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-10" value="Implementacion de estructuras mitigatorias sin ser evaluadas hasta la fecha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1264.5" y="1410" width="145.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-7" target="Of3RIeQDwXBQ1127IJgq-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="1440" as="sourcePoint" />
+            <mxPoint x="1510" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-12" value="El area afectada por el huayco actualmente es densamente habitada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1434.5" y="1460" width="145.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6wLMWecbSy31O0W6-ory-2" target="Of3RIeQDwXBQ1127IJgq-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1320" as="sourcePoint" />
+            <mxPoint x="1950" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-14" value="Analisis de efectos de nuevos huaycos y a la poblacion expuesta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1320" width="155.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-14" target="Of3RIeQDwXBQ1127IJgq-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1410" as="sourcePoint" />
+            <mxPoint x="1760" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-17" value="Analisis numericos implican cierto nivel de simplificacion del problema real, sin embargo, esclarece futuros escenarios de huaycos y ayuda a implementar metidas de mitigacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1440" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-18" value="" style="endArrow=classic;html=1;exitX=0.791;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6wLMWecbSy31O0W6-ory-2" target="Of3RIeQDwXBQ1127IJgq-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1350" as="sourcePoint" />
+            <mxPoint x="2000" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-19" value="Simulacion numerica indica que gran porcion de los detritos seran retenidos por la estructura de mitigacion. Sin embargo, evento de misma magnitud o superior al 2012 excederan la capacidad del canal construido. Entonces la geometria del canal construido puede ser optimizada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="1470" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6wLMWecbSy31O0W6-ory-2" target="Of3RIeQDwXBQ1127IJgq-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1270" as="sourcePoint" />
+            <mxPoint x="2060" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-21" value="Resultados se refieren a un evento de duracion considerable sin embargo no tan poco usual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1029.5" width="185.5" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-21" target="Of3RIeQDwXBQ1127IJgq-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1240" as="sourcePoint" />
+            <mxPoint x="2170" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-23" value="Resultado de RAMMS y LCD indican que la poblacion de la parte alta tendran poco tiempo para evacuar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1120" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Of3RIeQDwXBQ1127IJgq-23" target="Of3RIeQDwXBQ1127IJgq-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160" y="1220" as="sourcePoint" />
+            <mxPoint x="2220" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Of3RIeQDwXBQ1127IJgq-25" value="Medidas para reduccion del riesgo de desastres deben ser consideradas en esta parte de la poblacion altamente vulnerable con la finalidad de monitorear e implementar sistemas de alerta temprana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2124.5" y="1240" width="195.5" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
